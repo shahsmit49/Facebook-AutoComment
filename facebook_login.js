@@ -70,7 +70,7 @@ async function logIn(page) {
     if(await page.$("#userNavigationLabel") !== null) {
         await page.$("#userNavigationLabel")
         //post link of temp2 group
-        await page.goto('https://www.facebook.com/groups/1481557328643107/permalink/1587155664749939/', {
+        await page.goto('https://www.facebook.com/groups/180588106527893/permalink/180588999861137/', {
           waitUntil: 'networkidle2'
         });
         // await page.click("#_5rp7");
