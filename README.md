@@ -1,6 +1,7 @@
 # Facebook-AutoComment
 
-Join this Group https://www.facebook.com/groups/1481557328643107/
+Join this Group https://www.facebook.com/groups/1481557328643107/.
+<br>
 In code on line 61, 62 enter your email and password
 
 # Setup
