@@ -58,8 +58,8 @@ async function logIn(page) {
 
     await page.waitForSelector('input[name="email"]')
     //enter email password
-    await page.type('input[name="email"]', "shahsmit49@gmail.com")
-    await page.type('input[name="pass"]', "$Nayna3017227")
+    await page.type('input[name="email"]', "Email")
+    await page.type('input[name="pass"]', "Password")
 
 
     await page.click('label[id=loginbutton]')
